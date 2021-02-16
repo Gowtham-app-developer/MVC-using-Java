@@ -19,7 +19,6 @@ __View__
 
 __Controller__
 
-- The controller handles the business logic.
 - It is Activity/Fragment. 
 - It communicates with view and model. 
 - It takes the user input from view/REST services and Process request Get data from the model and passes to the view.

@@ -5,9 +5,9 @@
 - It is a Model-View-Controller and the most commonly used architecture.
 - MVC helps us to separates the business logic and presentation layer from each other.
 - These are the three components used in MVC.
-- __View__ = layout, resources and built-in classes like Button derived from android.view.View.
-- __Controller__ = Activity
-- __Model__ = the classes that implement the application logic
+- __View__ -> layout, resources and built-in classes like Button derived from android.view.View.
+- __Controller__ -> Activity
+- __Model__ -> the classes that implement the application logic
 
 __Model__
 
